@@ -15,7 +15,7 @@ SETUP/GUIDE TO DOWNLOAD AND RUN THE PROJECT
 Step 1:
   -> Visit:- https://github.com/root-anshul/mintlify_docs
   -> Click on Code then click on "Download zip" 
-<img src="screenshot/img_1.png" width="600">
+<img src="screenshot/SS4.png" width="600">
 
 Step 2:
   -> Github will download a zip file named "mintlify_docs.zip" you need to extract it 
